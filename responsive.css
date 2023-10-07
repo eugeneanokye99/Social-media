@@ -1,0 +1,233 @@
+@media (min-width: 1600px) {
+    .box1{
+        width: 350px;
+    }
+
+    .box2{
+        width: 1050px;
+        margin-left: 400px;
+    }
+
+    .box3{
+        width: 370px;
+    }
+}
+
+@media (min-width: 1500px) and (max-width: 1590px) {
+    .box1{
+        width: 300px;
+    }
+
+    .box2{
+        width: 1000px;
+        margin-left: 350px;
+    }
+
+    .box3{
+        width: 300px;
+    }
+}
+
+@media (min-width: 1440px) {
+    nav label{
+        width: 70px;
+        font-size: 20px;
+    }
+
+    nav span{
+        font-size: 20px;
+    }
+
+    .box2{
+        width: 800px;
+    }
+}
+
+
+@media (max-width: 1350px) {
+    .box2{
+        width: 650px;
+    }
+    nav span{
+        display: none;
+    }
+}
+
+@media (max-width: 1300px) {
+    .box2{
+        max-width: 600px;
+    } 
+}
+
+@media (max-width: 1250px) {
+    .box1{
+        width: 270px;
+    }
+
+    .box2{
+        width: 550px;
+        margin-left: 300px;
+    }
+
+    .box3{
+        width: 270px;
+    } 
+}
+
+@media (max-width: 1150px) {
+     .box2{
+        width: 500px;
+     }
+}
+
+@media (max-width: 1100px) {
+    .box2{
+        width: 700px;
+        margin-left: 350px;
+    }
+    .box3{
+       display: none;
+    }
+}
+
+@media (max-width: 1040px) {
+    .box2{
+        width: 650px;
+    }
+}
+
+@media (max-width: 998px) {
+    .box1{
+        width: 230px;
+    }
+    .box2{ 
+        margin-left: 250px; 
+    }
+}
+
+@media (max-width: 958px) {
+    .box1{
+        width: 200px;
+    }
+    .box2{
+        width: 600px;
+    }
+    .blocktext{
+        width: 150px;
+        font-size: 17px;
+    }
+
+}
+
+@media (max-width: 900px) {
+    .box1{
+        width: 180px;
+    }
+    .box2{
+        width: 550px;
+        margin-left: 220px;
+    }
+}
+
+@media (max-width: 853px) {
+    .box1{
+        width: 150px;
+    }
+
+    .box1 ul a li{
+        padding-top: 10px;
+    }
+
+    .box1 ul a li i{
+        margin: 20px auto 20px auto;
+    }
+
+    .box1 ul a li span, 
+    .dropdown a li span, 
+    .dropdown ul, 
+    .blocktext{
+        display: none;
+    }
+
+    .box2{
+        width: 580px;
+        margin-left: 190px;
+    }
+}
+
+@media (max-width: 820px) {
+    .box1{
+        width: 100px;
+    }
+    .box2{
+        width: 590px;
+        margin-left: 140px;
+    }
+}
+
+@media (max-width: 820px) {
+    .box2{
+        width: 700px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    body{
+        background-color: white;
+    }
+    .box1{
+        display: none;
+    }
+    .box2{
+    margin-left: 70px;
+    }
+
+    .post{
+        border-top: 1px solid gainsboro;
+        margin-top: 10px;
+    }
+
+    footer{
+        border-top: 5px solid gainsboro;
+    }
+}
+
+@media (max-width: 720px) {
+    .box2{
+       width: 750px;
+       margin-left: 50px;
+        }
+}
+
+@media (max-width: 650px) {
+    .box2{
+        width: 590px;
+        margin-left: 20px;
+    }
+
+    .icon{
+        display: none;
+    }
+
+    .searchbtn{
+        margin-right: 150px;
+    }
+
+    .tabs ul a li{
+        margin: 0 15px;
+    }
+}
+
+@media (max-width: 600px) {
+    .box2{
+        width: 590px;
+        margin-left: 5px;
+    }
+}
+
+@media (max-width: 500px) {
+    .box2{
+        margin-left: 5px;
+    }
+}
