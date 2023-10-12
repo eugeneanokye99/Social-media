@@ -17,8 +17,13 @@ body{
     color: white !important;
 }
 
+.box-dark-mode{
+    background-color: #222222 !important;
+    color: white !important;
+}
+
 .nav-dark-mode{
-    background-color: #181818;
+    background-color: #222222;
     color: white;
 }
 
