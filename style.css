@@ -13,13 +13,17 @@ body{
 }
 
 .dark-mode{
-    background-color: #131c25;
-    color: white;
+    background-color: #292929 !important;
+    color: white !important;
 }
 
 .nav-dark-mode{
-    background-color: #25323f;
+    background-color: #181818;
     color: white;
+}
+
+.text-dark-mode {
+    color: white !important;
 }
 
 nav{
